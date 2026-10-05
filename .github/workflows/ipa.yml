@@ -14,7 +14,7 @@ on:
 
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: ""
+        default: "https://www.dropbox.com/scl/fi/d0zbgstnvu0nl8ahsn30k/com.google.ios.youtube-20.15.1-Decrypted.ipa?rlkey=a5maccymx5i4bzcezmjuwfhm5&st=yrpvue8g&dl=1"
         required: true
         type: string
 
